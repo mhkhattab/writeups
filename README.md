@@ -20,3 +20,8 @@ These documents focus on methodology, technical concepts, testing workflows, def
 This repository does not contain TryHackMe flags, active challenge answers, passwords, credentials, authentication tokens, or private keys.
 
 All techniques and commands are intended only for authorized laboratories and educational environments.
+
+## Certificates
+
+- [Security Engineer Certificate](./assets/certificates/security-engineer-certificate.pdf)
+- [Jr Penetration Tester Certificate](./assets/certificates/jr-penetration-tester-certificate.pdf)
