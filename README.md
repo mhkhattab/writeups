@@ -1,13 +1,26 @@
-# TryHackMe Security Writeups
+# Cybersecurity Security Writeups
 
-Technical security notes and learning-path writeups from my completed TryHackMe training.
+Technical security notes and writeups from completed TryHackMe and LetsDefend training.
 
-These documents focus on methodology, technical concepts, testing workflows, defensive controls, and lessons learned. Flags, credentials, private keys, and active challenge answers are intentionally excluded.
+These documents focus on methodology, technical concepts, testing workflows, defensive controls, investigation logic, and lessons learned. Flags, credentials, private keys, authentication tokens, and direct challenge-answer values are intentionally excluded.
 
-## Completed Learning Paths
+## TryHackMe Learning Paths
 
 - [Security Engineer](./security-engineer/)
 - [Jr Penetration Tester](./jr-penetration-tester/)
+
+## TryHackMe Standalone Rooms
+
+- [Beach Bar](./standalone-rooms/beach-bar.md)
+- [Missing Person](./standalone-rooms/missing-person.md)
+- [Dev Diaries](./standalone-rooms/dev-diaries.md)
+- [The Guestbook](./standalone-rooms/the-guestbook.md)
+- [Room 404](./standalone-rooms/room-404.md)
+
+## LetsDefend Learning Paths
+
+- [SOC Analyst](./letsdefend/soc-analyst-path.md)
+- [SIEM Engineer](./letsdefend/siem-engineer-path.md)
 
 ## Profiles
 
@@ -17,7 +30,7 @@ These documents focus on methodology, technical concepts, testing workflows, def
 
 ## Responsible Publication
 
-This repository does not contain TryHackMe flags, active challenge answers, passwords, credentials, authentication tokens, or private keys.
+This repository does not contain TryHackMe or LetsDefend flags, active challenge answers, passwords, credentials, authentication tokens, or private keys.
 
 All techniques and commands are intended only for authorized laboratories and educational environments.
 
